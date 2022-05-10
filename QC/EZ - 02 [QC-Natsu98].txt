@@ -1,0 +1,87 @@
+[FILE]
+date      : 2021-05-11 21:27:47
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : D:/Encoding/enc/Edens/EDENS ZERO 02 [enc] [4C5C6038].mkv
+
+[DATA]
+[00:02:23] [Typeset] Aumentar el blur. [Aplicado]
+[00:02:40] [Note] No hay estilo asignado. [Aplicado]
+[00:02:43] [Note] ídem. [Aplicado]
+[00:02:46] [Spelling] Veo innecesarios los signos de interrogación 
+[00:03:00] [Translation] Con estos dados puedes grabar videos, {De esta forma suena más fluido}
+[00:03:05] [Note] No es el estilo de comunicaciones. [Aplicado]
+[00:03:14] [Timing] Dividir líneas [Aplicado]
+[00:03:14] [Note] Los signos de exclamasión son innecesarios.
+[00:03:51] [Spelling] Agregar coma luego de los puntos.
+[00:03:52] [Translation] Empezar con minúsculas. 
+[00:03:53] [Translation] ¡Haré que muchos más
+[00:03:54] [Translation] sean mis amigos!
+[00:03:58] [Translation] ¡Aunque sean de diversos planetas!
+[00:04:00] [Translation] Debe decir al inicio: Sabes...
+[00:04:02] [Spelling] Quitar la coma.
+[00:04:34] [Translation] Quitar la tilde de "video".
+[00:04:58] [Spelling] Quitar los signos de admiración.
+[00:05:17] [Note] AJustar la posición del diálogo. [Aplicado]
+[00:05:29] [Translation] ¡Aquí puedes registarte como aventurero!
+[00:06:01] [Timing] Agregar lead-out. {Error mío :V} [Aplicado]
+[00:06:02] [Translation] Quitar puntos suspensivos y cambiar por punto final
+[00:06:13] [Translation] ídem.
+[00:06:22] [Translation] Quitar "y todo", va por demás.
+[00:07:09] [Translation] Ella es Madre.
+[00:07:21] [Translation] ¡¿Ella es Madre?!
+[00:08:34] [Translation] Faltan las comillas chidas.
+[00:08:43] [Translation] Agregar coma luego de los puntos.
+[00:09:50] [Translation] ¡Oye, ¿qué estás haciendo?!
+[00:09:55] [Spelling] Agregar coma luego de los puntos.
+[00:10:00] [Translation] Cambiar los puntos por coma.
+[00:10:02] [Translation] solo es una corazonada.
+[00:10:05] [Translation] Cambiar por "Además"
+[00:10:20] [Translation] Cambiar por "Aye", es una típica frase de Happy así que sugiero conservarla.
+[00:10:51] [Translation] ¡No te lo perdonaré!
+[00:10:59] [Note] Falta el estilo de Happy. [Aplicado]
+[00:11:19] [Translation] Igualmente cambiar por Aye.
+[00:11:25] [Translation] ídem.
+[00:11:48] [Translation] Ajustar lead-out. [Aplicado]
+[00:12:09] [Translation] ¡Hombre! ¡Y estás muy flaco!
+[00:12:20] [Translation] Pero tengo algo claro:
+[00:12:56] [Translation] Igualmente conservar el "Aye".
+[00:12:57] [Translation] No tiene el estilo de diálogos.
+[00:13:02] [Translation] No tiene el estilo de Happy.
+[00:13:30] [Translation] Oye...,
+[00:13:30] [Translation] suelta a Happy.
+[00:13:33] [Translation] Oye, oye.
+[00:13:36] [Translation] No está mal pero sugiero po
+[00:13:37] [Translation] ¡H-Hermano!
+[00:13:40] [Translation] ¿Un hombre?
+[00:13:41] [Translation] ¡Y es bien grande!
+[00:13:59] [Translation] ¡Pero que lindura!
+[00:14:03] [Translation] Dividir líneas.
+[00:14:04] [Timing] ¡Yo te vi antes! 
+[00:14:05] [Translation] Eh, ¿dónde fue?
+[00:14:16] [Translation] ¡Los gatos de Exceed valen mucho dinero!
+[00:14:27] [Translation] Agregar coma luego de los puntos.
+[00:14:59] [Translation] Conservar el Aye y no es el estilo de Happy
+[00:15:04] [Translation] ¡Sí, estaremos siempre juntos!
+[00:15:18] [Punctuation] Cambiar el guión por puntos
+[00:15:29] [Translation] ¡Este chico...
+[00:15:30] [Translation] está usando movimientos muy raros!
+[00:15:52] [Translation] ¡Hermano! ¡Cálmate!
+[00:15:55] [Translation] ¿Tu hermano está bien?
+[00:17:00] [Translation] ¡Dios! {Falta diálogo}[Aplicado]
+[00:17:14] [Timing] Hacer tiempos continuos. [Aplicado]
+[00:17:55] [Translation] ¡Maldita!
+[00:19:08] [Translation] ¡Hermano!
+[00:19:44] [Note] No es el estilo de Shiki. [Aplicado]
+[00:19:46] [Note] Quitar el salto de línea y quitar los puntos suspensivos. [Aplicado]
+[00:19:48] [Translation] Conservar el Aye.
+[00:20:12] [Translation] Flata diálogo de Happy: Yo...
+[00:20:28] [Translation] Quitar los puntos suspensivos.
+[00:21:22] [Translation] Dividir líneas.
+[00:21:37] [Translation] Quitar los puntos suspensivos.
+[00:21:41] [Note] Mover posición del diálogo y alinear texto del cuadro. [Aplicado]
+[00:21:58] [Translation] ED: Las comillas son innecesarias ya que el contexto es concreto y por ende debemos quiatarlas del romaji.
+[00:22:55] [Translation] ídem.
+[00:23:05] [Translation]  "Ah" va por demás.
+[00:23:20] [Translation] Según el manga dice Aventureros, hay que conservarlo. [Aplicado]
+# total lines: 79

@@ -1,0 +1,90 @@
+[FILE]
+date      : 2021-08-27 21:28:03
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 08 [enc] [62D3E3F5].mkv
+
+[DATA]
+[00:00:33] [Timing] Ajutar el lead-out a unos 100ms más de lo que está.
+[00:02:08] [Typeset] Agregar un fscx más largo de lo actual.
+[00:02:08] [Note] Sugiero quitar el \an5 y ajustarlo con un margen al lado del letrero de los títulos para que no salte el sub.
+[00:02:44] [Translation] Sugiero poner: “De lo contrario”
+[00:03:29] [Translation] Quitar el re, suena raro tal como así, no soy mucho de usar prefijos ya que fonéticamente sunea raro solo hay casos donde es aplicable, sugiero quitar el prefijo "re", o simplemente poner “¡Esto me emociona mucho!”
+[00:03:35] [Translation] Cambiar por “Discullpa” o “Perdón”, ambos son aplicables
+[00:04:08] [Note] Cambiar por las comillas chidas (“”).
+[00:04:11] [Translation] la “tortura destructiva más un masaje relajante de placer”
+[00:04:11] [Note] Cambiar por las comillas chidas (“”).
+[00:06:21] [Timing] Recuerdo haber dividido esta línea >:V
+[00:07:00] [Timing] Hay timeescene
+[00:07:01] [Spelling] Quitar los signos de admiración, son innecesarios en este caso.
+[00:07:23] [Note] Cambiar por las comillas chidas (“”).
+[00:08:23] [Timing] El lead-out es exagerado reducir a 150ms
+[00:08:31] [Note] Este estilo ya es de comunicaciones
+[00:08:33] [Note] ídem.
+[00:08:36] [Note] ídem.
+[00:08:38] [Note] ídem.
+[00:08:39] [Timing] Hay timescene.
+[00:09:09] [Punctuation] Los puntos suspensivos son innecesarios
+[00:09:12] [Translation] Traducir views por visitas tiene traducción latina además lo veo innecesaria ponerlo como extranjerismos.
+[00:09:13] [Spelling] Los signos de admiración son innecesarios.
+[00:09:14] [Spelling] Agregar coma al final de la frase.
+[00:09:18] [Translation] Y bien,
+[00:09:27] [Translation] Igualmente lo de las líneas anteriores traducir viewers.
+[00:09:32] [Timing] Dividi esta línea >:V
+[00:09:33] [Timing] Hay timescene.
+[00:09:37] [Spelling] La coma ya no iría aquí.
+[00:09:39] [Note] Agregar salto de línea.
+[00:09:39] [Note] ídem.
+[00:09:47] [Translation] Cambiar soso por estúpido, ni idea que significa no uso mucho este termino por aquí :V
+[00:09:56] [Spelling] Quitar la coma
+[00:09:58] [Translation] ¡Ah, te extrañé mucho, hermanito de la gravedad!
+[00:10:07] [Note] Agregar salto de línea.
+[00:10:12] [Translation] Creo que “molestar” es algo exagerado.
+[00:10:38] [Translation] Esta chica...
+[00:10:46] [Punctuation] Quitar los puntos suspensivos y poner punto final.
+[00:11:03] [Note] Ah, pero qué molestia.
+[00:11:06] [Note] Agregar salto de línea.
+[00:11:20] [Translation] ¿Y tú quién eres?
+[00:12:22] [Timing] dividir líneas.
+[00:12:22] [Translation] ¡Ya sé!
+[00:12:30] [Note] Cambiar por las comillas chidas (“”).
+[00:12:32] [Translation] ¿Acaso así hacen los perros?
+[00:12:46] [Translation] éter de agua. {Traducir se dejó así desde un principio.}
+[00:12:49] [Timing] Se puede dividir las líneas, pero primero consultar los CPS.
+[00:12:56] [Note] Cambiar por las comillas chidas (“”).
+[00:12:58] [Timing] Dividir líneas.
+[00:13:05] [Translation] Amo, ¿acaso te has perdido?
+[00:13:18] [Translation] Este fan es muy escalofriante.
+[00:13:35] [Note] ¡Tres! ¡Cuatro!
+[00:13:46] [Translation] ¡Cinco!
+[00:13:58] [Timing] Timescene.
+[00:14:01] [Note] Falta diálogo según especulo o logro entender debe decir: “¿O acaso...?”
+[00:14:05] [Translation] cambiar por “de regreso...”
+[00:14:07] [Spelling] Quitar los signos de admiración.
+[00:14:53] [Punctuation] Quitar los puntos suspensivos
+[00:14:55] [Note] Cambiar por las comillas chidas (“”).
+[00:15:40] [Punctuation] Quitar los puntos suspensivos
+[00:16:00] [Translation] Señor Illega,
+[00:16:02] [Note] Agregar salto de línea.
+[00:16:11] [Note] ídem.
+[00:16:20] [Translation] Las más...
+[00:17:09] [Translation] ¡Incréible! ¡Este video será genial!
+[00:17:21] [Translation] Ether Gear de gravedad, ¿cierto?
+[00:17:40] [Translation] Quitar los signos de admiración.
+[00:17:43] [Translation] Ninjutsu mecánico de aire.
+[00:17:58] [Translation] ¡Los ninjas son asombrosos!
+[00:18:06] [Translation] ¡Ataque meca-mecánico!
+[00:18:39] [Spelling] Es pregunta, agregar signos de interrogación.
+[00:18:43] [Translation] ¡Oye!
+[00:18:47] [Timing] Dividir líneas.
+[00:19:22] [Translation] Es muy exagerado el diminutivo es ponerlo tal como es: ¡Eres el mejor!
+[00:19:25] [Timing] Dividir líneas.
+[00:19:54] [Translation] ¡Los ninjas son asombrosos!
+[00:20:11] [Translation] Asumes que se están divirtiendo, ¿no?
+[00:20:24] [Timing] Timescene.
+[00:20:44] [Note] Agregar salto de línea.
+[00:20:50] [Note] ídem.
+[00:20:51] [Note] ídem.
+[00:21:26] [Translation] ¡Regresemos al EDENS ZERO!
+[00:23:19] [Typeset] Ajustar la shape de los letreros
+# total lines: 82

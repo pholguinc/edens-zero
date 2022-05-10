@@ -1,0 +1,51 @@
+[FILE]
+date      : 2021-06-10 00:02:35
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 05 [enc] [9B3F4469].mkv
+
+[DATA]
+[00:00:00] [Translation] Con que regresaste, ¿eh? {En mi opinión suena mejor esta expresión debido a la escena} Referencia: https://www.rae.es/dpd/conque
+[00:01:17] [Punctuation] Agregar coma luego de los puntos.
+[00:01:24] [Translation] Sería mejor traducirlos: “Los hermanos Foote”
+[00:01:30] [Note] No es el estilo de pensamientos de Weisz
+[00:01:32] [Note] ídem.
+[00:01:47] [Note] Agregar fad
+[00:02:03] [Spelling] Lío, lleva tilde. Referencia:  https://llevatilde.es/palabra/l%C3%ADo
+[00:02:25] [Typeset] Agregar degradado ya que interviene Happy y rebecca
+[00:04:21] [Translation] El “también” va por demás.
+[00:04:39] [Punctuation] Quitar los puntos suspensivos.
+[00:05:07] [Timing] La línea debe dividirse.
+[00:05:57] [Timing] La línea empieza antes en el lead-in
+[00:06:13] [Translation] Cambiar por: Puño de gravedad.
+[00:06:23] [Timing] Ajustar el lead-out termina antes de lo habitual.
+[00:06:26] [Timing] Ajustar leas-out hay mucho espacio en él.
+[00:06:34] [Punctuation] Agregar coma luegto de los puntos.
+[00:06:42] [Timing] Ajustar lead-out por cambio de escena.
+[00:06:47] [Punctuation] Los puntos suspensivos son innecesarios.
+[00:07:09] [Translation] Cambiar por:  “hermanos Foote” como lo mencioné desde un inicio.
+[00:07:52] [Translation] ¡Así es! ¡Somos los hermanos Foote
+[00:08:15] [Note] Savate poner como extranjerismo, y por ende en itálicas.
+[00:08:18] [Note] ígualmente en itálicas
+[00:08:32] [Timing] Ajustar el tiempo del lead-out.
+[00:08:41] [Translation] ¿Por qué lo escuchas?
+[00:08:49] [Timing] Ajustar el lead-in.
+[00:10:51] [Translation] Cambiar por: repararlos.
+[00:12:16] [Note] Quitar el fad.
+[00:12:49] [Timing] Unir la linea con la siguiente.
+[00:13:17] [Translation] ¡¿Qué es...ese poder?!
+[00:13:40] [Timing] Ajustar los tiempos  en el frame anterior.
+[00:13:43] [Translation] La línea es contínua, por ende empezar en minúsculas.
+[00:14:06] [Note] No tiene el estilo de diálogos
+[00:14:26] [Timing] Ajustar lead-in
+[00:14:29] [Translation] ¿Te meterás con nosotros y esas hermosas piernas? {Natsu98: De que tiene , las tiene, unas buenas piernas xdxd}
+[00:14:35] [Note] Falta diálogo de los poderes.
+[00:14:39] [Note] ídem
+[00:14:52] [Translation] Cambiar por: “hermanos Foote”
+[00:15:20] [Timing] Ajustar el leas-out.
+[00:15:26] [Note] Suena muy literal pero yo pondría: ¡Me has causado muchos problemas, ¿eh?! - También dividir la línea.
+[00:15:33] [Timing] Ajustar el lead-in.
+[00:16:18] [Translation] Hace mucho que no mke hacen enojar tanto. {Puede que dar eso o lo otro tanl como el contesto solo que el “cabrear”, lo noto mucho a español xd}
+[00:19:16] [Translation] ¡Maldita!
+[00:20:15] [Translation] Cambiar por: ¡Qué alivio! {Suena mejor para mí, en este caso}
+# total lines: 43

@@ -1,0 +1,95 @@
+Línea 03:
+"las Cuatro Estrellas Brillantes son..."
+
+Ultima linea del español del opening le falta el punto final donde dice:
+"por siempre"
+
+Cartel Min: 0:02:36.43
+Editar el cartel del nombre que estan horribles con el fad
+
+PD: comente las dos lineas del letrero y copie una y la edite para que quede como se deje, asi es como quedaria:
+
+{\an5\fad(500,500)\fnA-OTF Gothic MB101 Pro B\b1\bord3\blur0.5\shad0\c&HFFFFFF&\3c&H000000&\fscx87\fscy116\pos(1318.15,737.32)}El planeta super virtual{The Super Virtual Planet}
+
+===========================================
+SI LO HICE ES PORQUE ESTABA MAL, QUISIERA QUE SE USE LO QUE EDITE Y VEAN LA DIFERENCIA.
+===========================================
+
+Línea 32686
+"las Cuatro Estrellas Brillantes son..."
+
+Línea 32704
+"las Cuatro Estrellas Brillantes son..."
+
+Línea 32707
+No recuerdo si poniamos "éter o ether"
+
+Línea 32756
+Alargar la linea y ponerle fad de salida
+Quedaria mejor visualmente porque se esta desvaneciendo el planeta.
+
+Línea 32772
+Alargar la linea y ponerle fad de salida
+
+Línea 32810
+Cartel: editar los tiempos porque se llega a leer el japones.
+Edit:
+Termina en el cuadro: 11991
+Pasarlo a: 11992
+
+Línea 32872
+Agregarle fad de inicio y salida, visualmente.
+
+Línea 32888
+No es "PEM", es "EMP"
+
+Línea 32900
+Cartel: editar los tiempos porque se llega a leer el japones.
+Edit:
+Tiempos del cuadro puestos en el aegi: 17091
+Pasarlo a: 17090
+
+Línea 33764
+Rebecca va doble "c".
+
+Línea 33767
+Cartel: editar los tiempos porque se llega a leer el japones.
+Edit:
+Tiempos del cuadro puestos en el aegi: 21212
+Pasarlo a: 21166 (inicio)
+Finalizacion del cuadro: 21213 (final)
+
+Línea 33778 / 33779
+Estilo en "Witch Pensamiento"
+
+Línea 33850
+Quitarle un "\N" que quedo entre el punto final y el inicio de la llave "{" ya que la linea se queda a mitad de la pantalla.
+PD: editarle los tiempos para que aparezca cuando aparece en pantalla, no despues
+Cuadro original: 26866
+Cuadro de inicio (asi se deberia de ver): 26857
+
+Línea 33851
+El "¡Aye!" aparece mucho antes de que happy aparezca en pantalla.
+Asique hay que editarle los tiempos
+Cuadro original: 26941
+Cuadro de inicio (asi se deberia de ver): 26947
+
+Línea 33866
+Editar línea, creeria que se lee mejor asi:
+Parece que los jugadores son los únicos que meceren la pena cazar.
+
+Línea 33869
+Estilo Weisz
+
+Línea 33880
+Despues de esta linea le falta un dialogo que va despues que seria:
+"Asique... hechen un vistado"
+O editar la linea en si para que quede completa.
+
+Línea 33900
+Agregar fad de salida, visualmente tiene luz blanca y quedara mejor.
+
+En la parte del ending, el español la ultima linea. el punto tiene un espacio con la palabra:
+"...sigues girando los tornillos"
+
+

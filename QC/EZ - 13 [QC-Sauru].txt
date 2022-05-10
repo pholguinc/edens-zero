@@ -1,0 +1,33 @@
+[FILE]
+date      : 2021-12-12 21:24:22
+generator : mpvQC 0.7.0
+nickname  : Sauru UwU
+path      : D:/RAWS/[DraKuro] Edens Zero/[DraKuro] Edens Zero 13 [QC] [BEA06A2D].mkv
+
+[DATA]
+[00:02:33] [Punctuation] El punto final.
+[00:02:36] [Note] Fade in más rápido que el del cartel original.
+[00:02:40] [Note] Lo mismo con el fade out. En el cartel original comienza antes.
+[00:05:22] [Note] Es muy posible que esté ahí.
+[00:05:33] [Note] En este estado, su ego y su espíritu se han ido...
+[00:05:54] [Note] ¡vamos a salvarla!
+[00:07:23] [Spelling] El --> el
+[00:08:15] [Timing] Arreglar la salida y entrada de estas líneas.
+[00:08:18] [Timing] La salida del cartel...
+[00:08:50] [Note] /an1
+[00:08:55] [Punctuation] Fuera coma
+[00:11:52] [Timing] La entrada del cartel...
+[00:12:42] [Typeset] El color de la máscara no cuadra
+[00:14:43] [Note] Qué pasó con este cartel? jaja
+[00:16:54] [Punctuation] Fuera coma
+[00:17:19] [Note] Ahora está depre.
+[00:17:34] [Punctuation] He oído rumores y, ahora, sé que son ciertos.
+[00:18:12] [Punctuation] Fuera coma.
+[00:18:49] [Note] Vamos a buscar a un miembro...
+[00:20:08] [Note] Aquí falta una línea
+[00:21:11] [Note] Galáctica
+[00:21:48] [Punctuation] Al amanecer, cuando las flores crecen, el sol comienza...
+[00:22:36] [Note] Algo --> algo
+[00:22:47] [Punctuation] Fuera coma
+[00:23:00] [Note] Quitar el espacio antes del punto
+# total lines: 25

@@ -1,0 +1,41 @@
+[FILE]
+date      : 2021-08-12 15:39:15
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 06 [enc] [7920A79A].mkv
+
+[DATA]
+[00:03:07] [Note] Sugiero poner un margen al diálogo para que no estorbe al cartel del episodio.
+[00:03:08] [Note] ídem.
+[00:04:16] [Note] dividir líneas.
+[00:06:04] [Spelling] Quitar signos de admiración.
+[00:06:23] [Translation] Cambiar por: “hacen”
+[00:07:23] [Spelling] Falta cierre de la pregunta.
+[00:07:24] [Spelling] Agregar apertura de los signos de interrogación.
+[00:08:33] [Translation] Creo que sería mejor poner  ¡Genial!
+[00:09:05] [Punctuation] Quitar los puntos suspensivos.
+[00:11:22] [Spelling] Huir no lleva tilde. https://llevatilde.es/palabra/hu%C3%ADr
+[00:11:51] [Note] Desde el primer epi estamos usando el término de “Rey Demonio”.
+[00:11:52] [Note] Cambiar por “Rey Demonio”.
+[00:14:09] [Translation] de los grandes piratas.... {La línea es continua a la anterior.}
+[00:14:29] [Translation] ¿Por qué querrían un inútil barco como este?
+[00:14:55] [Translation] Estamos usando “nave”.
+[00:15:01] [Translation] ¡Oh, es preciosa!
+[00:15:29] [Translation] ¡Oigan, ¿qué es lo que quieren?!
+[00:16:18] [Translation] Quitar “verde” podría ponerse como viejo pervertido {normalmente es lo que veo com´punmente a loq eu significa}, pero con solo viejo queda bien.
+[00:16:20] [Punctuation] Quitar los signos de admiración.
+[00:17:06] [Translation] Pero si no podemos mover la nave...
+[00:17:19] [Translation] Cambiar por “nave”.
+[00:17:22] [Phrasing] ídem.
+[00:17:28] [Translation] ¡Así es, siempre quise una nave así de grande!
+[00:17:29] [Translation] ¡Así como este!
+[00:17:33] [Translation] Cambiar por “nave”.
+[00:17:53] [Punctuation] Quitar los signos de admiración.
+[00:18:35] [Translation] ¿Qué le sucede a esta nave?
+[00:20:05] [Translation] ¡Date prisa y ayúdame!
+[00:20:06] [Timing] Ajustar el tiempo del lead-out en el cambio de escena.
+[00:20:12] [Translation] Quitar  “eh”, va por demás.
+[00:20:41] [Translation] Cambiar mujer joven por “señorita” o “dama”, estaría mejor así.
+[00:21:03] [Translation] E-Eso fue increíble.
+[00:23:10] [Translation] La nave espacial del Rey Demonio {Debido a que usamos el término de “nave”}
+# total lines: 33

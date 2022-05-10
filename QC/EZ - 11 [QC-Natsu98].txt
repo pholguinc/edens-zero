@@ -1,0 +1,73 @@
+[FILE]
+date      : 2021-09-03 08:44:14
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 11 [enc] [30463016].mkv
+
+[DATA]
+[00:00:12] [Translation] Y en esta ocasión me interesé por las B-Cubers. {Lo usamos en los epis anteriores.}
+[00:01:00] [Translation] Es hora de que me digas lo que realmente buscas.
+[00:03:58] [Translation] Se quedó como Ninjutsu mecánico de aire
+[00:04:10] [Translation] Ataque meca-demoníaco...
+[00:04:20] [Translation] ídem.
+[00:04:55] [Note] A esta sister androide se quedó como estilos generales.
+[00:04:57] [Note] ídem.
+[00:05:09] [Note] ídem.
+[00:05:12] [Note] ídem.
+[00:05:17] [Note] ídem.
+[00:05:19] [Note] ídem.
+[00:05:26] [Note] ídem.
+[00:05:35] [Note] ídem.
+[00:05:37] [Note] ídem.
+[00:05:41] [Note] ídem.
+[00:06:04] [Note] ídem.
+[00:06:08] [Note] ídem.
+[00:06:12] [Note] ídem.
+[00:06:12] [Translation] Discutimos que se quedaría como Estrellas Brillantes.
+[00:06:17] [Note] A esta sister androide se quedó como estilos generales.
+[00:06:48] [Translation] Creo que adaptando con un sinónimo se vería mejor para que sea más común como por ejemplo desfavorable.
+[00:07:02] [Translation] ídem.
+[00:07:19] [Translation] que nos hayamos...
+[00:08:28] [Translation] ¿Qué rayos es esto?
+[00:08:35] [Translation] Discutimos que se quedaría como Estrellas Brillantes.
+[00:09:58] [Note] A esta sister androide se quedó como estilos generales.
+[00:10:00] [Note] ídem.
+[00:10:01] [Translation] ¿Cierto?
+[00:10:01] [Note] A esta sister androide se quedó como estilos generales.
+[00:10:13] [Note] ídem.
+[00:10:14] [Note] ídem.
+[00:10:15] [Note] ídem.
+[00:10:31] [Note] ídem.
+[00:11:27] [Translation] Ahora estoy furioso.
+[00:12:14] [Translation] Todas las chicas hacen lo que les pido cuando se ponen así.
+[00:13:05] [Translation] ¡Esa zorra!
+[00:14:05] [Note] A esta sister androide se quedó como estilos generales.
+[00:14:06] [Note] ídem.
+[00:14:11] [Note] ídem.
+[00:14:15] [Note] ídem.
+[00:14:18] [Note] A esta sister androide se quedó como estilos generales.
+[00:14:19] [Note] Quitar “le” va por demás.
+[00:15:07] [Translation] ¡Y hay un gran alboroto afuera!
+[00:17:09] [Translation] Sí. Tus sirvientes me salvaron. {Puede quedar también como lacayo}
+[00:17:10] [Translation] ¡No soy su sirviente!
+[00:17:12] [Translation] No soy una sirvienta.
+[00:17:16] [Note] Agregar salto de línea.
+[00:17:17] [Translation] Estás volviendo a reunir a todo el equipo de EDENS ZERO, ¿verdad?
+[00:17:51] [Note] Discutimos que se quedaría como Estrellas Brillantes.
+[00:18:03] [Translation] Videos no lleva tilde aunque la verdad es depende a la nacionalidad, cro que ambos son aceptables en mi caso no lleva la tílde, pero cro que en países como Argentina, CHile y demás lo usan tal como pusiste.
+[00:18:34] [Timing] Dividir línea.
+[00:18:43] [Translation] ¡Bueno, ya verás tú!
+[00:18:59] [Note] A esta sister androide se quedó como estilos generales.
+[00:19:01] [Note] ídem.
+[00:19:08] [Note] ídem.
+[00:19:12] [Note] ídem.
+[00:19:15] [Note] ídem.
+[00:19:22] [Note] ídem.
+[00:19:24] [Note] ídem.
+[00:19:27] [Note] ídem
+[00:19:27] [Translation] ¡Salvaré a tu amiga,
+[00:19:30] [Note] A esta sister androide se quedó como estilos generales.
+[00:20:31] [Note] Agregar salto de línea.
+[00:21:07] [Note] El estilo es de comunicaciones.
+[00:21:36] [Translation] Cambiar por: apresurarnos.
+# total lines: 65

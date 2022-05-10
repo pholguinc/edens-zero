@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>16045646316460071216</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3051463704956605347</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Introducción</ChapterString>
+        <ChapterLanguage>spa</ChapterLanguage>
+        <ChapterCountry>pe</ChapterCountry>
+        <ChapLanguageIETF>es</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:27.022000000</ChapterTimeStart>
+      <ChapterUID>17461185471634058804</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening - “Eden through the rough” por Takanori Nishikawa</ChapterString>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1325788457609041254</ChapterUID>
+      <ChapterTimeStart>00:03:53.987000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Episodio</ChapterString>
+        <ChapterLanguage>spa</ChapterLanguage>
+        <ChapterCountry>pe</ChapterCountry>
+        <ChapLanguageIETF>es</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:45.095000000</ChapterTimeStart>
+      <ChapterUID>14602183741581385068</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending - “Bouken no VLOG” por CHiCO with HoneyWorks</ChapterString>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7304781375965491751</ChapterUID>
+      <ChapterTimeStart>00:23:15.102000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Avance</ChapterString>
+        <ChapterLanguage>spa</ChapterLanguage>
+        <ChapterCountry>pe</ChapterCountry>
+        <ChapLanguageIETF>es</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

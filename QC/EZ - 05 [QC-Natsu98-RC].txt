@@ -1,0 +1,23 @@
+[FILE]
+date      : 2021-08-12 14:50:22
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 05v2 [enc] [78574DE2].mkv
+
+[DATA]
+[00:04:19] [Translation] Sería mejor ponerlo como ¿O quieres que te corte la otra pierna? {Suena mejor fonéticamente debido a la escena.}
+[00:06:34] [Punctuation] Quitar los puntos suspensivos.
+[00:07:52] [Timing] Dividir lineas por el timescene.
+[00:13:24] [Spelling] Quitar los signos de exclamación.
+[00:13:29] [Spelling] ídem
+[00:13:31] [Timing] Ajustar el lead-in
+[00:13:31] [Spelling] Quitar los signos de exclamación.
+[00:14:06] [Punctuation] Cambiar los puntos suspensivos por coma.
+[00:14:26] [Spelling] Quitar los signos de exclamación.
+[00:15:29] [Timing] Ajustar tiempo del lead-out.
+[00:15:33] [Timing] Ajustar tiempo del lead-in.
+[00:16:18] [Translation] Hace mucho que no me hacen enojar asi. 
+[00:17:00] [Translation] Me parece que “esta ciudad” va por demás ya se da entender en sí y se nota muy literal.
+[00:17:05] [Spelling] Quitar los signos de exclamación.
+[00:20:37] [Punctuation] Cambiar los puntos suspensivos por coma.
+# total lines: 15

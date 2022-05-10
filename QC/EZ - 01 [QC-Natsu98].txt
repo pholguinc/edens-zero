@@ -1,0 +1,111 @@
+[FILE]
+date      : 2021-04-18 19:31:36
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : D:/Encoding/enc/Edens/EDENS ZERO 01 [enc] [0EC4D06E].mkv
+
+[DATA]
+[00:01:07] [Timing] Dividir líneas. [Aplicado]
+[00:01:07] [Translation] Pero yo no puedo llorar.
+[00:01:17] [Timing] Cambio de escena. [Aplicado]
+[00:01:30] [Translation] Agregar coma luego de los puntos.
+[00:01:34] [Translation] Son líneas contínuas, por ende comenzar en minúsculas.
+[00:01:38] [Translation] Cambiar "eh" por "cierto"
+[00:03:04] [Timing] ajustar el lead in de "Bienvenidos" [Aplicado]
+[00:03:30] [Timing] Cambio de escena [Aplicado]
+[00:03:31] [Translation] Ah, ¿les importa si grabo aquí?
+[00:03:46] [Timing] Cambio de escena. [Aplicado]
+[00:03:52] [Translation] ¿Hay alguna buena actividad para grabarla? {Suena mejor de este modo}
+[00:03:58] [Timing] Cambio de escena. [Aplicado]
+[00:03:59] [Translation] Entonces, ¿qué tal esta?
+[00:04:32] [Timing] Cambio de escena [Aplicado]
+[00:04:43] [Timing] La linea debe aparecer antes. [Aplicado]
+[00:04:50] [Timing] Ajustar lead out y hacer líneas continuas con la siguiente línea. [Aplicado]
+[00:05:24] [Translation] Cambiar por: ¡¿Qué diablos haces?! 
+[00:05:24] [Timing] Dividir líneas. [Aplicado]
+[00:05:30] [Timing] Dividir líneas. [Aplicado]
+[00:05:30] [Translation] Ah, ¿me lo puedo comer?
+[00:05:34] [Timing] Se agregó mucho lead-out. [Aplicado]
+[00:05:37] [Timing] Dividir líneas. [Aplicado]
+[00:05:54] [Timing] ídem. [Aplicado]
+[00:06:12] [Timing] Cambio de escnea. [Aplicado]
+[00:06:13] [Translation] ¡Ni muerta!
+[00:06:17] [Translation] ¡Dios ese tipo...
+[00:06:18] [Translation] daba mucho miedo!
+[00:06:20] [Translation] Al golpear a alguien de esa forma...
+[00:06:21] [Translation] tú también das miedo, Rebecca.
+[00:06:25] [Translation] Nunca habpia visto a un humano antes.
+[00:06:34] [Timing] Cambio de escena. [Aplicado]
+[00:06:51] [Translation] Así que se llama Shiki.
+[00:06:53] [Translation] Cambiar "esta" por "ella"
+[00:06:53] [Timing] Hay cambio de escena. [Aplicado]
+[00:07:07] [Timing] ídem. [Aplicado]
+[00:07:19] [Timing] Hay mucho lead-out. [Aplicado]
+[00:07:32] [Timing] Hay cambio de escena. [Aplicado]
+[00:08:10] [Timing] ídem. [Aplicado]
+[00:08:24] [Punctuation] Quitrar los puntos suspensivos y cambiar por punto final.
+[00:08:27] [Translation] Intenté arreglarlo, pero solo hicieron "¡pum"
+[00:08:27] [Note] Poner las comillas chidas.
+[00:08:29] [Note] Faltan las comillas chidas (“ ”)
+[00:08:34] [Timing] Dividir líneas. [Aplicado]
+[00:08:40] [Timing] la linea debe empezar antes. [Aplicado]
+[00:08:40] [Note] Agregar \an8 [Aplicado]
+[00:08:42] [Note] ídem. [Aplicado]
+[00:08:44] [Note] ídem. [Aplicado]
+[00:08:49] [Translation] Bueno, me iré a dormir de inmediato.
+[00:08:55] [Translation] ¡¿Se durmió muy rápido?!
+[00:09:05] [Translation] ¿De veras?
+[00:09:13] [Translation] Estás pensando por qué hay un humano aquí solo, ¿verdad?
+[00:09:29] [Translation] Cambiar por "crió"
+[00:09:32] [Translation] Podría cambiarse por deteriorado.
+[00:09:37] [Translation] ídem.
+[00:09:47] [Punctuation] Quitar los puntos suspensivos.
+[00:09:54] [Translation] Eso fue divertido.
+[00:09:56] [Translation] Quitar la tilde en "videos"
+[00:09:58] [Translation] ¡De seguro conseguiremos muchas visitas!
+[00:10:31] [Timing] Hay mucho lead-out. [Aplicado]
+[00:10:33] [Translation] ¿Happy...
+[00:10:35] [Translation] y Rebecca?
+[00:10:43] [Translation] ¡Cuando desperté ya estaba atada!
+[00:11:11] [Translation] Por alguien con un barco que pueda salir fuera.
+[00:11:35] [Translation] ¡P-Pero soy una huésped!
+[00:11:53] [Translation] Los signos de exclamación son innecesarios
+[00:12:31] [Translation] ¡Reacciona, Michael!
+[00:12:37] [Timing] Dividir líneas. [Aplicado]
+[00:12:44] [Timing] La línea debe empezar antes. [Aplicado]
+[00:13:00] [Translation] Este mundo está lleno de ellos.
+[00:13:01] [Translation] Poner "mecánico" en minúsculas.
+[00:13:08] [Translation] son líneas continuas, por ende debe empezar en minúsculas.
+[00:13:29] [Translation] Una vez este lugar estuvo lleno de humanos y máquinas.
+[00:13:39] [Translation] Cambiar por "abandonaron".
+[00:13:47] [Translation] Cambiar por "podremos"
+[00:14:23] [Translation] Agregar coma luego de los puntos.
+[00:15:02] [Translation] ¡Si son amigos no importa si son humanos o máquinas!
+[00:15:04] [Timing] Dividir líneas.
+[00:15:23] [Timing] dividir líneas por cambio de escena.
+[00:15:33] [Translation] No dolió para nada,
+[00:15:47] [Note] Cambiar por las comillas chidas.
+[00:15:49] [Note] ídem.
+[00:15:52] [Translation] Y también...,
+[00:15:55] [Translation] son líneas continuas, empezar con minúsculas.
+[00:16:29] [Translation] ¡Acaso él...!
+[00:17:04] [Translation] Agregar 2 puntos al final.
+[00:17:32] [Translation] Lo veo innecesario poner el diálogo sobrante "¡Los humanos son el enemigo!".
+[00:18:31] [Translation] ¡Lo es!
+[00:18:56] [Punctuation] Quitar los puntos suspensivos y poner punto final.
+[00:19:15] [Translation] Entonces, el reino del que vienen...
+[00:20:28] [Punctuation] Quitar los puntos suspensivos del inicio.
+[00:20:30] [Punctuation] ídem.
+[00:20:38] [Punctuation] Agregar coma luego de los puntos.
+[00:20:39] [Translation] lo hicieron muy bien.
+[00:20:59] [Punctuation] Quitar los puntos suspensivos del inicio.
+[00:21:12] [Translation] Todo el mundo tiene un corazón.
+[00:21:55] [Timing] Dividir líneas.
+[00:22:16] [Translation] Todos eran mis amigos
+[00:22:38] [Punctuation] Cambiar los puntos suspesnsivos por coma
+[00:22:39] [Translation] Empezar con minúsculas.
+[00:22:42] [Translation] Ya me decidí.
+[00:22:46] [Translation] ¡Haré muchos amigos en el espacio!
+[00:23:13] [Translation] Tú aventura ha comenzado. 
+[00:23:15] [Translation] Ahora tendrás que avanzar tú mismo.
+# total lines: 103

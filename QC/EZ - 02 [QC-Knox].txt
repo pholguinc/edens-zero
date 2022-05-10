@@ -1,0 +1,13 @@
+27087: agregar fad (falta font) [Aplicado]
+27088: falta font [Aplicado]
+27100: estilo comunicaciones (esta mal que diga rebecca)[Aplicado]
+27114: agregar fad [Aplicado]
+27116: aca dice cien personas, al principio dice cientos (despues dice que hara mas pero para que quede igual)
+27152: signo de admiracion de mas
+27190: agregar fad [Aplicado]
+27206: ajustar tiempo al cambio de escena [Aplicado]
+27211: cosmos con mayuscula
+27229: idem
+27246: ser mis amigos
+27278: alargar la linea, esta corta antes y sigue gritando. [Aplicado] {Es innecesario ya que hay cambio de escena, mucho cuidado con eso}
+30874: no dice nada, pero claramente dice dios, diosito.

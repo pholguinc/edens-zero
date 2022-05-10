@@ -1,0 +1,26 @@
+[FILE]
+date      : 2021-12-26 13:30:15
+generator : mpvQC 0.7.0
+nickname  : Sauru UwU
+path      : D:/RAWS/[DraKuro] Edens Zero/[DraKuro] Edens Zero 14 [QC] [F487AD1C].mkv
+
+[DATA]
+[00:00:15] [Note] Quitar tartamudeo.
+[00:01:18] [Note] Quitar puntos suspensivos al principio.
+[00:01:53] [Punctuation] Punto final.
+[00:02:55] [Note] Poner ¡! por fuera
+[00:02:55] [Note] Cortar línea con el cambio de escena.
+[00:04:15] [Note] ... está convocando esta reunión.
+[00:08:29] [Punctuation] Quitar la coma.
+[00:08:33] [Spelling] mi --> mí
+[00:08:34] [Note] Solo "Pino".
+[00:08:52] [Phrasing] ... planeta natal.
+[00:13:38] [Note] Añadir interrogaciones.
+[00:14:33] [Spelling] asesinado --> asesinada
+[00:15:14] [Spelling] tu --> tú
+[00:18:50] [Punctuation] Añadir los espacios correspondientes.
+[00:20:17] [Spelling] Mayúscula inicial.
+[00:21:48] [Note] Al amanecer, cuando las flores crecen, el sol comienza...
+[00:22:05] [Punctuation] Cambiar la coma del final por un punto.
+[00:23:01] [Punctuation] Quitar el espacio antes del punto.
+# total lines: 18

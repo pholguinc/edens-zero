@@ -1,0 +1,137 @@
+[FILE]
+date      : 2021-05-23 22:10:37
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : F:/Encodes/enc/Edens/EDENS ZERO 04 [enc].mkv
+
+[DATA]
+[00:02:02] [Translation] Previamente en Edens Zero. {Suena mejor así debido a la típica narración que tienen las series.}
+[00:02:02] [Note] No es estilo de Rebecca.
+[00:02:05] [Note] ídem.
+[00:02:09] [Note] ídem.
+[00:02:09] [Translation] Decidimos partir en busca de Madre, la Diosa del Cosmos,
+[00:02:11] [Translation] Sugiero quitar Madre se ve raro en sí también el diálogo lo dice pero creo que ya se da entener, a la vez se ve raro :v
+[00:02:11] [Note] No es estilo de Rebecca.
+[00:02:11] [Translation] quien puede concerte tus deseos.
+[00:02:14] [Note] ídem.
+[00:02:15] [Translation] ¡Pero no tenemos un barco que llegue tan lejos!
+[00:02:19] [Note] ídem.
+[00:02:20] [Timing] Dividir líneas por el cambio de escena.
+[00:02:21] [Note] No es estilo de Rebecca.
+[00:02:24] [Note] ídem.
+[00:02:38] [Translation] C-Como dijimos, venimos a ver al profesor.
+[00:02:42] [Punctuation] Quitar los puntos.
+[00:02:45] [Punctuation] ídem.
+[00:02:50] [Translation] Quitar el “ya”.
+[00:02:51] [Timing] El lead-out es muy bajo.
+[00:03:01] [Translation] ¡Oye, esas gafas...!
+[00:03:14] [Translation] ¡Ataque meca-demoníaco! {Se dejó así en el epi 01}
+[00:03:15] [Translation] ¡Centro de gravedad!
+[00:03:23] [Punctuation] Cambiar el guión por puntos suspensivos.
+[00:03:32] [Translation] Sí.
+[00:03:48] [Translation] Bueno, está amenazándome cuando estás desnudo.
+[00:03:50] [Translation] ¡¿D-D-esnudo?!
+[00:03:51] [Translation] ¿Sibir?
+[00:03:52] [Translation] Desnudo.
+[00:04:12] [Translation] Él no es el profesor.
+[00:04:15] [Translation] Los tengo grabados en el celular.
+[00:04:22] [Punctuation] Cambiar los puntos suspensivos por coma.
+[00:04:25] [Translation] Y de tanto rejuvenecer perdió la memoria?
+[00:04:26] [Timing] Unir las líneas.
+[00:04:31] [Timing] Dividir líneas.
+[00:04:46] [Translation] ha sido testigo de un nuevo gremio de aventureros:
+[00:04:47] [Timing] "La Estrella Fugaz "
+[00:04:54] [Timing] Dividir línea por cambio de escena.
+[00:05:02] [Translation] Eso fue hace cincuenta años...
+[00:05:05] [Punctuation] Quitar los puntos suspensivos.
+[00:05:24] [Translation] ¿Qué tal te va Happy?
+[00:05:35] [Translation] Entonces nosotros nos quedaremos aquí. {Como dice mi viejita el burro por delante xd}
+[00:05:39] [Translation] Eso no será posible,
+[00:05:44] [Translation] Quitar el “se”.
+[00:05:53] [Translation] Oye, aún no acabamos de comer.
+[00:06:02] [Translation] Cambiar coches por "autos".
+[00:06:06] [Translation] Además, las máquinas de la ciudad son anticuadas.
+[00:06:19] [Translation] ¿Hemos viajado al pasado?
+[00:06:41] [Translation] ¡¿Estamos ciencuenta años en el pasado?!
+[00:06:46] [Translation] Entonces, el que decía ser el profesor Weisz
+[00:06:48] [Translation] ¡Era el profesor cuando era joven!
+[00:06:54] [Translation] ¡¿Cincuenta años en el pasado?!
+[00:06:58] [Translation] ¡De todos modos, relájate!
+[00:06:59] [Translation] Eso va para ti.
+[00:07:18] [Timing] Hay mucho lead-in.
+[00:07:37] [Translation] Saben que no está bien tomar cosas ajenas, ¿verdad?
+[00:07:50] [Translation] ¿En realidad es un profesor ladrón?
+[00:08:06] [Note] Debe ir estilo de comunicaiones.
+[00:08:10] [Translation] Esa escoria me robó mi dinero.
+[00:08:11] [Translation] ¡¿Eh?! ¡¿Acaso ustedes también lo son?!
+[00:08:20] [Punctuation] Quitar puntos suspensivos.
+[00:08:23] [Translation] Y nosotros hablamos con un gato.
+[00:08:29] [Translation] ¡Cierra el pico!
+[00:08:35] [Translation] Si estamos en el pasado no podremos entrometernos en nada.
+[00:09:29] [Timing] Ajustar el lead-out hay muhco espacio en ello.
+[00:10:02] [Translation] Quitar puntos suspensivos.
+[00:10:04] [Translation] Tu poder no tiene límites, ¿verdad?
+[00:10:07] [Translation] ¡Aprovechemos la oportunidad para escondernos!
+[00:10:18] [Note] Falta diálogo: No lo digas.
+[00:10:27] [Translation] Ese chico va a regresar.
+[00:10:29] [Translation] Él regresará...
+[00:10:50] [Translation] ¿A-Aliens?
+[00:10:55] [Translation] ...parecido al nuestro.
+[00:11:00] [Translation] Quitar la coma luego de "Y"
+[00:11:15] [Translation] Quisiera saber lo que está pasando.
+[00:11:24] [Translation] Cambiar por "en el pasado"
+[00:11:33] [Translation] ¿Verdad?
+[00:11:36] [Translation] El profesor de cincuenta años en el futuro,
+[00:11:39] [Translation] me dijo que este bar era como su escondite.
+[00:12:11] [Translation] ¿Y que vienen de cincuenta años en el futuro?
+[00:12:16] [Translation] ¡No me jodas!
+[00:12:27] [Translation] Es cierto...
+[00:12:40] [Translation] ¡Les dije que no soy profesor!
+[00:12:42] [Spelling] Quitar la coma.
+[00:12:47] [Translation] La forma correcta es “haz”. {https://www.rae.es/espanol-al-dia/has-haz-0}
+[00:13:02] [Note] No es el estilo de Shiki.
+[00:13:14] [Translation] Deberían dejar de meterse en mis asuntos.
+[00:13:37] [Translation] ¡Cambié de trabajo al de ladrón!
+[00:13:52] [Translation] ¿Qué pasó?
+[00:14:09] [Translation] Quitar “que digamos” lo veo muy literal.
+[00:14:14] [Timing] Ajutar lead-out.
+[00:14:36] [Spelling] Es pregunta agregar apertura de signo de admiración “¿”
+[00:14:38] [Spelling] “?”
+[00:14:42] [Note] Quitar el an8
+[00:14:50] [Note] Agregar margen a la derecha.
+[00:14:52] [Note] ídem.
+[00:15:20] [Translation] Qué alivio.
+[00:15:26] [Translation] Sonaría mejor como: Tienes un increínble poder.
+[00:15:33] [Translation] ¿No tienes nada de vergüenza?
+[00:15:37] [Translation] Buscando definición de amigo...
+[00:15:42] [Translation] No creo que se completaran todos los requerimientos, pero...
+[00:15:43] [Translation] Empezar en minúsculas.
+[00:16:23] [Timing] Ajustar lead-in.
+[00:16:35] [Translation] Sibir, el nuevo amo.
+[00:16:46] [Translation] ¿Lo rompiste?
+[00:17:06] [Translation] Podría ser que...
+[00:17:21] [Translation] Ah, basura...
+[00:17:31] [Translation] Dios lo ve todo.
+[00:17:55] [Spelling] Quitar los signos de admiración y unir líneas.
+[00:17:56] [Translation] Esa basura estaba en la pandilla de Sibir,
+[00:18:00] [Translation] pero oí que lo dejó hace poco.
+[00:18:06] [Punctuation] Quitar puntos suspensivos.
+[00:18:07] [Punctuation] ídem.
+[00:18:14] [Translation] ídem.
+[00:18:18] [Translation] Primero deberíamos comprobar de que el Aqua Eing esté bien
+[00:18:19] [Translation] y podríamos intentar volver a Blue Graden.
+[00:18:31] [Timing] Dividir líneas.
+[00:18:38] [Translation] No lo digo por el profesor.
+[00:18:44] [Translation] Falta diálogo: Mira.
+[00:19:20] [Note] Agregar \an8
+[00:19:27] [Translation] Si no puedes bailar supongo que no necesitas piernas, ¿verdad?
+[00:20:14] [Timing] Hay cambio de escena.
+[00:20:24] [Punctuation] Quitar puntos suspensivos.
+[00:20:57] [Note] No es el estilo de Shiki.
+[00:21:05] [Translation] No tengo intención de hacerlo.
+[00:21:10] [Timing] Unir líneas.
+[00:21:14] [Punctuation] Quitar puntos suspensivos.
+[00:21:16] [Translation] ¡Esa es nuestra era!
+[00:21:21] [Translation] pero ahora Pino es un androide del futuro.
+[00:23:15] [Note] Ajustar la posición de la shape
+# total lines: 129

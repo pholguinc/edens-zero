@@ -1,0 +1,77 @@
+Linea 63:
+Podria ser algo mas como:
+¿Esta es su nave?
+¿Asique esta es su nave?
+
+Linea 74/75
+Ya edite los tiempos para que quede con el cambio de escena con lo que dice.
+
+Linea 77
+Cambie el lead-out
+
+Linea 115
+Madre por Mother
+
+Linea 116
+Madre por Mother
+
+Linea 123
+Cambio de lead-in
+
+Linea 129
+reactor ether ; ¿queda en minuscula o mayuscula?
+
+Linea 146
+Impresionente
+Impresionante
+
+Linea 160/161
+Edite lead-out y lead-in para que quede justo cuando hablan
+
+Linea 195
+Cambio lead-out para el cambio de escena 
+
+Linea 199
+En el manga dejaron en español, supongo que tenia mas sentido traducirlo. "Cronófago".
+
+Linea 203
+impora
+importa
+
+Linea 208
+huír
+huir
+
+Linea 273:
+Nave por Barco
+
+Linea 276:
+Cambiar "El Hada Calavera" por "The Skull Fairy"
+
+Linea 278:
+Antes dice "nave" y ahora ponen "barco", creo que deberia de ir "nave".
+
+Linea 314
+Nave por barco
+
+Linea 327/328
+Nave por barco
+
+Linea 332/333/334
+Nave por barco
+
+Linea 337
+Nave por barco
+
+Linea 348/349
+Creo que deberian de ir en pensamientos
+
+Linea 355
+Nave por barco
+
+Linea 369
+Verificar con la imagen que subi a discord.
+
+Linea 14019
+Linea de edicion
+Nave por barco

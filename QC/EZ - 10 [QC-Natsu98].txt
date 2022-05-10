@@ -1,0 +1,60 @@
+[FILE]
+date      : 2021-08-31 13:03:56
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 10 [enc] [AAA1A71C].mkv
+
+[DATA]
+[00:00:06] [Translation] Ahora ustedes son propiedad de Sister. {Del epi anterior}
+[00:00:26] [Translation] Y en esta ocasión me interesé por las B-Cubers.
+[00:00:31] [Translation] ¡Tengo que escapar a como dé lugar!
+[00:00:33] [Translation] ¡Y le daré un buen golpe...
+[00:00:38] [Translation] ¿A qué han venido aquí?
+[00:02:28] [Note] Este estilo no es de comunicaciones?
+[00:02:29] [Note] ídem.
+[00:02:48] [Note] ídem.
+[00:02:49] [Note] ídem.
+[00:03:36] [Translation] “alejado” va por demás.
+[00:04:34] [Translation] ¡Esto está bueno!
+[00:05:17] [Punctuation] Los puntos suspensivos son innecesarios, claramente es de carácter explicativo.
+[00:05:44] [Note] No es el estilo de Witch.
+[00:05:45] [Note] ídem.
+[00:05:47] [Note] ídem.
+[00:05:50] [Translation] De acuerdo. {Los signos de exclamasión son innecesarios}
+[00:06:37] [Translation] No creo que este sea la traducción correcta, de todas formas sugiero que Knox lo revise en el manga.
+[00:06:40] [Translation] ¿Es por esos intrusos de antes?
+[00:07:05] [Timing] Acá hace falta unir líneas.
+[00:07:11] [Translation] Y bien, ¿qué hará?
+[00:07:30] [Spelling] Los signos de exclamasión son innecesarios
+[00:07:52] [Translation] ¡Podríamos tener serios problemas si nos metemos con ella! {Algo así sería la traduc de esta línea de tal forma revisar con la source de Knox.}
+[00:07:55] [Timing] unir líneas.
+[00:08:01] [Translation] Cambiar por bastardos o algo similar.
+[00:08:20] [Translation] Será mejor que no hagan enojar a Sister.
+[00:08:22] [Translation] Cambiar maestro por “señor”.
+[00:08:28] [Translation] ídem.
+[00:08:35] [Note] No es estilo de pensamientos.
+[00:08:53] [Translation] Busquemos a Rebecca. {Lleva q prro, saquen el látigo para unas 1000 latigazos a Kuro :v }
+[00:09:47] [Translation] Traducir viewers por visitas.
+[00:09:47] [Translation] Debe decir suspenso.
+[00:09:55] [Translation] ¡Ese mini agujero negro fue increíble]!
+[00:10:06] [Translation] ningún.
+[00:10:10] [Translation] ¡Todos! ¡Incluso yo!
+[00:10:54] [Translation] ¡Qué genial eres, Couchpo!
+[00:11:20] [Note] Agregar salto de línea.
+[00:11:27] [Translation] Seguramente por eso es que está tan alta.
+[00:12:03] [Translation] ¿diver?
+[00:14:22] [Translation] Me has enojado.
+[00:17:46] [Spelling] Síganme
+[00:17:56] [Translation] Nunca pensé que relamente vendrías a Guilst.
+[00:18:51] [Translation] Cambiar por “muy”.
+[00:19:03] [Translation] Dentro de cincuenta años ya los hacen mucho mejor.
+[00:19:18] [Translation] Es hora de que me digas que és lo que realmente buscas.
+[00:20:47] [Note] Agregar salto de línea.
+[00:20:51] [Note] ídem.
+[00:20:51] [Translation] Pero tus funciones aún no están totalmente restauradas.
+[00:21:04] [Spelling] Cosmos Skura
+[00:21:14] [Translation] Las estrellas están muriendo una tras otra.
+[00:21:39] [Translation] Se quedó como Tokihami.
+[00:21:42] [Translation] ¡Un Tokihami que se dirige a Guilst!
+[00:23:20] [Typeset] Ajustar la sahpe de los letreros.
+# total lines: 52

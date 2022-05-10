@@ -1,0 +1,121 @@
+[FILE]
+date      : 2021-08-31 12:00:07
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 09 [enc] [015EEDE2].mkv
+
+[DATA]
+[00:00:16] [Translation] ¡Los ninjas son asombrosos! {Del epi anterior.}
+[00:00:20] [Translation] puedes encontrarme en Guilst. {Parece que el corrector tenía hambre.}
+[00:00:29] [Note] Agregar salto de línea.
+[00:00:31] [Note] ídem.
+[00:00:41] [Translation] ¡Regresemos al EDENS ZERO!
+[00:01:12] [Punctuation] Cambiar la coma por puntos suspensivos.
+[00:01:15] [Punctuation] Agregar coma luego de los puntos suspensivos.
+[00:01:16] [Translation] ¡y Milon!
+[00:01:19] [Translation] ¡También Copa!
+[00:01:32] [Spelling] Silencio. {No VAries MAyúsculas y MInúsculas.}
+[00:01:35] [Translation] Este es la típica frase que dice este personaje al igual que Happy sugiero ponerle texto: Moscoy.
+[00:01:38] [Translation] Ahora ustedes son propiedad de Sister.
+[00:01:48] [Translation] Sistemas listos. {Así suena mejor fonéticamente}
+[00:01:56] [Translation] despega {Otra vez con hambre Kuro :v}
+[00:03:35] [Note] No es el estilo de pensamientos.
+[00:03:35] [Punctuation] Acomodar el signo de admiración.
+[00:03:37] [Note] ídem.
+[00:03:51] [Note] Sugiero poner un margen al diálogo para que no estorbe con el letrero.
+[00:03:51] [Translation] Cambiar por señor Illega. {Eso debido a que es muestra de respeto hacia la persona}
+[00:03:54] [Translation] así que le pertenecen a él.
+[00:03:55] [Note] ídem.
+[00:03:59] [Note] ídem.
+[00:03:59] [Note] Somos caballeros de lady Sister. {No estoy seguro como poner acá pero puede ponerse igual como señorita Sister, ya que maestro no cuadra del todo creo que optaría por el primero.}
+[00:04:02] [Note] ídem.
+[00:04:05] [Note] Debe de ser el estilo general.
+[00:04:06] [Note] ídem.
+[00:04:09] [Translation] ¿Ese no es el grupo implicado en muchos actos ilícitos?
+[00:04:13] [Note] Debe ser el estilo de pensamientos.
+[00:04:16] [Translation] ¿Ella no es una de las Cuatro Estrellas Guías del Rey Demonio?
+[00:04:16] [Note] Agregar salto de línea.
+[00:04:18] [Note] Debe ser el estilo de pensamientos.
+[00:04:21] [Note] Como es a manera de respeto hacia un cliente debería ponerse como Señor Illega.
+[00:04:32] [Timing] Dividir líneas.
+[00:04:42] [Punctuation] Quitar los puntos suspensivos.
+[00:04:54] [Translation] ¡Ya cállate!
+[00:05:05] [Translation] Quieres que te de una buena golpiza, ¿ verdad?
+[00:05:12] [Translation] Acá igual agregarle el texto: Moscoy.
+[00:05:17] [Translation] Ya se callará.
+[00:05:56] [Translation] Podría ponerse también como: Los tendré exitados con esta miniatura.
+[00:05:58] [Note] Agregar salto de línea.
+[00:06:40] [Timing] unir líneas.
+[00:07:20] [Spelling] Agregar cierrewde signo de pregunta.
+[00:07:22] [Translation] ¿Una B-Cuber?s
+[00:07:43] [Translation] Eso es imposible.
+[00:07:50] [Note] Falta diálogo
+[00:07:54] [Timing] unir líneas.
+[00:07:58] [Translation] El “ya” va por demás.
+[00:08:09] [Translation] Cosmos Sakura.
+[00:08:14] [Note] Agregar salto de línea.
+[00:08:17] [Note] Agregar margen para que no estorbe con el cartel.
+[00:08:25] [Note] Ajustar tiempo del cartel.
+[00:08:44] [Translation] Quitar el “aquí”.
+[00:09:39] [Timing] Unir líneas.
+[00:09:39] [Translation] Un poco más y el Fast Travel estará cargado.
+[00:09:47] [Translation] Cosmos Sakura.
+[00:09:49] [Translation] Si vamos allí sin nungún plan,....
+[00:09:53] [Timing] dividir líneas.
+[00:09:57] [Translation] Cambiar por “analizar”.
+[00:10:06] [Translation] ¿Quién eres?
+[00:10:09] [Timing] Dividí esta línea.
+[00:10:44] [Translation] Agregar salto de línea.
+[00:10:47] [Note] ídem.
+[00:10:58] [Translation] ¡Regresemos al EDENS ZERO!
+[00:10:58] [Note] Falta diálogo de Pino: Sí.
+[00:11:01] [Translation] ¿Acaso también secuestraron a Rebecca?
+[00:11:26] [Translation] Ah, otra vez con eso...
+[00:11:38] [Note] Agregar salto de línea.
+[00:12:07] [Translation] Está claro que me estás menospreciando.
+[00:12:11] [Translation] Y lo dijo.
+[00:12:14] [Note] Está bien. Te llevaré al EDENS ZERO.
+[00:12:27] [Timing] Dividir líneas.
+[00:12:29] [Translation] Será lo mejor.
+[00:12:40] [Note] No es el estilo de Homura.
+[00:12:49] [Timing] Dividir líneas.
+[00:12:58] [Translation] Tengo la impresión de que no soy ese Rey Demonio que está buscando.
+[00:13:30] [Punctuation] Agregar puntos suspensivos
+[00:14:18] [Note] Agregar salto de línea.
+[00:14:26] [Translation] El señor Illega es una buena persona.
+[00:14:31] [Translation] Cuado hable, reponde con un “Sí, señor”.
+[00:14:32] [Note] Faltan las comillas chidas (“”).
+[00:14:34] [Translation] Siempre un “Sí, señor”.
+[00:14:36] [Translation] Ahora mueve ese trasero y arrodíllate como una buena chica.
+[00:15:08] [Translation] ¡Bienvenidas, chicas!
+[00:15:32] [Punctuation] Cambiar los puntos suspensivos por solo punto final.
+[00:15:34] [Punctuation] ídem.
+[00:15:42] [Translation] Y en esta ocasión me interesé por las B-Cubers.
+[00:15:53] [Note] Agregar salto de línea.
+[00:16:10] [Timing] Dividir líneas.
+[00:16:51] [Translation] Sí. Una pieza preciosa.
+[00:16:53] [Translation] ¿Piedra?
+[00:17:37] [Punctuation] ¡Tengo que escapar a como dé lugar!
+[00:17:38] [Note] Agregar salto de línea.
+[00:17:39] [Translation] ¡Y le daré un buen golpe...
+[00:17:54] [Timing] Dividir líneas.
+[00:18:10] [Note] Debe ser estilo de pensamientos.
+[00:18:19] [Translation] El sentido común no sirve de nada aquí.
+[00:18:27] [Punctuation] Quitar los puntos suspensivos y coma.
+[00:18:29] [Spelling] Empezar con mayúsculas.
+[00:18:44] [Punctuation] Cambiar los puntos suspensivos por punto.
+[00:18:49] [Translation] Aun así, creo que eres genial.
+[00:18:59] [Note] Agregar salto de línea.
+[00:19:03] [Note] ídem.
+[00:19:14] [Note] Faltan las comillas chidas (“”).
+[00:19:16] [Translation] Ahora mismo estamos debajo de todo. {https://dle.rae.es/debajo}
+[00:19:21] [Translation] El Tree Ether es genial.
+[00:19:33] [Spelling] Es explicativo, por ende dee ir con dos puntos (:), y empezar con minúsculas.
+[00:19:34] [Note] Faltan las comillas chidas (“”).
+[00:19:40] [Translation] Parece que tienes unos buenos compañeros.
+[00:19:42] [Translation] ¡Las salvaremos  a como dé lugar! {Es algo por gusto propio me parece el más adecuado}
+[00:20:09] [Note] Faltan las comillas chidas (“”).
+[00:20:48] [Translation] ¿A qué han venido aquí?
+[00:23:16] [Typeset] Ajustar shape de los títulos.
+[00:23:16] [Translation] El gran escape al desnudo.
+# total lines: 113

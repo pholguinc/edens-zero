@@ -1,0 +1,72 @@
+[FILE]
+date      : 2021-08-12 19:09:42
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 07 [enc] [800AF2B4].mkv
+
+[DATA]
+[00:02:54] [Translation] Acá la traduc no es la adecuada el audio no concuerda con el sub.
+[00:02:58] [Translation] Ataque meca-demoníaco
+[00:04:08] [Note] El estilo no es el correcto.
+[00:04:21] [Note] Cambiar por las comillas chidas.
+[00:04:37] [Translation] Aquí el “Puedo” va por demás ya que es continuación del diálogo anterior.
+[00:04:54] [Translation] ¿Y quién eres tú, Shiki?
+[00:05:16] [Translation] Dejar solo como: y que jamás volvieron.
+[00:05:21] [Punctuation] Agregar coma luego de los puntos suspensivos.
+[00:06:01] [Punctuation] Quitar los puntos suspensivos.
+[00:06:19] [Translation] Cambiar por “nave”.
+[00:06:29] [Note] Sugiero poner margen al diálogo para que no estorbe con el cartel
+[00:06:30] [Note] ídem.
+[00:06:33] [Note] ídem.
+[00:06:36] [Typeset] Ajustar alineación del cartel.
+[00:06:36] [Note] Sugiero poner margen al diálogo para que no estorbe con el cartel.
+[00:06:54] [Note] ídem.
+[00:06:55] [Note] ídem.
+[00:06:56] [Translation] Cambiar por “nave”.
+[00:07:00] [Translation] ¿Estás diciendo que toda nuestra investigación no sirve?
+[00:07:07] [Translation] Esta lectura es del modo de combate
+[00:07:42] [Translation] Error de tipeo, cambiar por “¡Ya te he dicho...”
+[00:08:11] [Translation] ¡Ataque meca-demoníaco¡
+[00:08:13] [Typeset] Falta edit del cartel.
+[00:08:13] [Translation] En el diálogo anterior se definió como ¡Cometa gravitacional!
+[00:08:37] [Translation] Cambiar por: semidesnudo.
+[00:09:03] [Punctuation] Agregar coma luego de “parásita”.
+[00:09:09] [Translation] Cambiar por: “nave”.
+[00:09:29] [Translation] ídem.
+[00:09:46] [Translation] Les entregaré la nave.
+[00:09:52] [Punctuation] Cambiar puntos suspensivos por punto.
+[00:09:59] [Translation] Cambiar por: “nave”.
+[00:10:19] [Translation] ídem.
+[00:10:40] [Translation] Me recordó a mí.
+[00:11:29] [Translation] Tendría más sentido si cambiamos por: “espacio”.
+[00:11:37] [Note] Ajustar margen para que no choque con la pantalla.
+[00:11:39] [Note] Ajustar el margen del diálogo.
+[00:11:56] [Translation] Idiota, bórralo.
+[00:12:05] [Translation] Cambiar por: “nave”.
+[00:12:08] [Translation] ídem.
+[00:12:21] [Spelling] Empezar con mayúsculas.
+[00:12:42] [Note] Cambiar por: “nave”.
+[00:13:11] [Translation] ¡Es la Armada del Gobierno Espacial!
+[00:13:13] [Translation] Cambioar por: “Deberían”.
+[00:13:23] [Translation] No nos atraparán en un lugar así.
+[00:13:35] [Translation] Cambiar por: “nave”.
+[00:14:12] [Translation] Recibido. {Es con b y no con v, del verbo recibir.}
+[00:14:19] [Translation] ¡Vámonos ya!
+[00:14:26] [Translation] Cambiar por: “nave”.
+[00:14:28] [Translation] ídem.
+[00:14:32] [Translation] ídem.
+[00:14:41] [Translation] ¡Todos los barcos prepárense para retirarse!
+[00:15:47] [Translation] Cambiar por: “nave”.
+[00:16:08] [Translation] Falta diálogo de Happy: ¡Aye!
+[00:17:38] [Spelling] Quitar los signos de admiración.
+[00:17:50] [Timing] Dividir líneas.
+[00:18:36] [Translation] Yo también cogí algo de ropa de la nave.
+[00:19:10] [Translation] ¡Me irrita esa actitud de lo hice más rápido!
+[00:19:18] [Punctuation] Quitar los puntos suspensivos.
+[00:19:57] [Timing] Dividir líneas.
+[00:20:43] [Translation] Era broma.
+[00:20:47] [Translation] Gestionas esta nave, ¿verdad?
+[00:20:52] [Punctuation] Quitar los puntos suspensivos.
+[00:21:06] [Translation] Quitar los signos de admiración.
+[00:21:10] [Translation] Cambiar por: “nave”.
+# total lines: 64

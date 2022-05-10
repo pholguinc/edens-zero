@@ -1,0 +1,75 @@
+Linea 11 / 0:00:33.867: Error de tiempos, inicio: (0:00:33.116 - 794) {Dónde queda el "ore"}
+Linea 13 / 0:00:41.917: Error de tiempos, inicio: (0:00:40.916 - 981) [Aplicado]
+Linea 18 / 0:00:55.389: Llevarlo hasta el cambio de escena: (0:00:57.975 - 1390) [Aplicado]
+Linea 35 / 0:01:40.017: Se podria acordar el lead-out [Aplicado] {Es entendible pero en este caso sacamos muchas líneas sobrantes si respetamos el keys en mi opinión lo dejaría tal cual}
+Linea 59 / 0:03:17.989: Error de tiempos, inicio: (0:03:17.089 - 4725) [Aplicado]
+Linea 61 / 0:03:28.542: subs cambiar a subscriptores, ya se que esta adaptado, pero lo dice en el manga oficial.
+Linea 66 / 0:03:39.386: Creo que seria ideal que quede como esta en la linea 59, el nombre completo ya que dice exactamente eso en japones: "¡Bienvenidos a Granbell, el reino de los sueños!"
+Linea 66 / 0:03:47.102: Error de tiempos, inicio: (0:03:46.685 - 5435) [Aplicado]
+Linea 73-74: Hay un mini gap, de 10 cuadros, achiar la linea 73 o que esten juntas. [Aplicado]
+Linea 94 / 0:05:22.489: La coma del tercer "oye" esta mal ubicada.
+Linea 105 / 0:05:50.058: Cambiar lead-out para el cambio de escena (0:05:51.768 - 8434)  [Aplicado]
+Linea 112 / 0:06:19.713: [Duda] mazo por bastante, u otra palabra, se entiende el dialogo, aunque no solemos usar mazo.
+Linea 127 / 0:07:00.587: Error de tiempos, inicio: (0:06:59.461 - 10057) [Aplicado]
+Linea 143 / 0:08:05.318: [Duda] ¿Que dice en japones? Ya que en el manga oficial y el que tengo en la PC dicen "Su exelencia" o "Mi señor", es solo eso.
+Linea 150 / 0:08:22.460: Falto un punto.
+Linea 155 / 0:08:36.891: Cambiar lead-out para el cambio de escena (0:08:37.892 - 12417) [Aplicado]
+Linea 156: Cambiar lead-it para el cambio de escena (0:08:37.934 - 12418) [Aplicado]
+Linea 178 / 0:09:38.078: abandonarlo
+Linea 180: Pero...
+Linea 222 / 0:11:50.585: Error de tiempos, inicio: (0:11:50.084 - 17025) [Aplicado]
+Linea 265: Cambiar los tiempos con el fad de salida asi:
+Cuadro de salida: 19711
+{\be1\fad(0,800)}[Aplicado] {Mucho lead-out, lo ideal sería al 19907}
+Linea 268: Es hora de contraatacar. (asi tambien esta en el oficial).
+Linea 290 / 0:14:58.481:  Error de tiempos, inicio: (0:14:59.357 - 21563) JUSTO en el cambio de escena. [Aplicado] 
+Linea 300: Cambiar los tiempos con el fad de salida asi:
+Cuadro de salida: 22788
+{\be1\fad(0,800)} [Aplicado]
+Linea 306 / 0:16:07.008: Error de tiempos, inicio: (0:16:07.508 - 23197) [Aplicado] {Natsu98: Si lo pongo en ese tiempo faltaría aplicar los leads y hay timescene}
+Linea 315 / 0:16:09.886: Le falta h a eter (Ether) y va sin acento y con mayuscula (esta en wiki :v)
+https://edens-zero.fandom.com/es/wiki/Ether
+Linea 449: Error de tiempos, inicio: (0:17:39.934 - 25413) [Aplicado] 
+Linea 466: Error de tiempos, inicio: (0:18:44.540 - 26962) [Aplicado] 
+Achique el lead-out: 0:18:48.09
+Linea 467: Lead-in: 0:18:48.88 [Aplicado] 
+Linea 473: Cosmos va con mayuscula.
+Linea 485: Cambiar lead-out - 0:19:55.27 [Aplicado] {Mucho lead-out}
+Linea 486: Cambiar lead-in - 0:19:55.27 [Aplicado] (es para que cuando diga "el espacio" sea en esta linea) [Aplicado] 
+Linea 495: Cambiar lead-out - 0:20:29.69 [Aplicado] 
+Linea 496: Cambiar lead-in - 0:20:29.69 [Aplicado] 
+Linea 502: Cambiar lead-in: 0:20:46.620 - 29889 [Aplicado] {Las líneas deben ser contínuas}
+{\be1\fad(350,0)}
+Linea 504: Cambiar los tiempos con el fad de salida asi:
+Cuadro de salida: 30137  
+{\be1\fad(0,500)}[Aplicado]
+Linea 507: Lead-out: 0:21:13.272 - 30528 [Aplicado]
+Linea 512: Cosmos va con mayuscula.
+Linea 534: Cambiar fad de entrada, \fad(350,300), asi queda mucho mejor. [Aplicado]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

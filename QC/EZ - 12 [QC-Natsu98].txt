@@ -1,0 +1,43 @@
+[FILE]
+date      : 2021-09-04 12:51:50
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : E:/Encodes/Vapoursynth/enc/Edens/EDENS ZERO 12 [enc] [6E0274E4].mkv
+
+[DATA]
+[00:00:33] [Note] Quitar salto de línea.
+[00:02:07] [Typeset] Redimensionar el tamaño del letrero se ve muy grande, creo que se me pasó xd
+[00:02:22] [Translation] poner como “la verdadera Siter”,  asi tal como lo pusiste parece un copy and paste de google xd
+[00:02:50] [Timing] Ajustar el lead-out a unos 500ms
+[00:06:14] [Timing] dividir líneas.s
+[00:07:12] [Translation] Culquier humano que se haya quedado de seguro está muerto. {Qué pasó aquí Kuro, está a lo google}
+[00:07:16] [Timing] dividir líneas.
+[00:07:38] [Spelling] Los signos de admiración son innecesarios hay que saber cuándo y en dónde aplicar ya lo mencioné antes mayormente cuando son gritos o expresiones de asombro o algo así.
+[00:07:46] [Note] Faltan las comillas chidas “” {Acostúmbrense a usarlas}
+[00:07:46] [Note] ídem.
+[00:08:14] [Translation] ¡Deja de llorar! ¡Me da asco!
+[00:08:21] [Translation] Qué rarito es este nuevo Rey Demonio.
+[00:08:30] [Translation] Lo supe con tan solo verlo.
+[00:08:34] [Translation] Es el niño que Ziggy crió a costo de su viaje en busca de Mother.
+[00:08:58] [Translation] Agregar salto de línea.
+[00:09:18] [Translation] Así es.
+[00:10:27] [Translation] No tiene por qué ser ahora. {https://www.rae.es/espanol-al-dia/porque-porque-por-que-por-que-0}
+[00:11:04] [Translation] ¿Eso significa que te nos unirás? {Aclaro que los japos hablan comos i fuera tercera persona osea que hay casos donde siempre verás repetir el nombre de uno cuando realizas una acción o otro contexto.}
+[00:14:02] [Timing] Hay timescene.
+[00:14:50] [Punctuation] Quitar los puntos suspensivos.
+[00:15:14] [Timing] Dividir líneas.
+[00:16:46] [Timing] Ajustar el lead-out a unos 500ms
+[00:16:58] [Translation] Por cierto, ¿dónde está Homura?
+[00:17:13] [Note] Agregar salto de línea.
+[00:17:58] [Timing] Dividir líneas.
+[00:17:58] [Note] Faltan las comillas chidas.
+[00:18:05] [Spelling] Quitar las comillas.
+[00:18:58] [Translation] ¿Qué carajos pasó en ese planeta?
+[00:19:14] [Translation] ¡Chicos, vean los videos de Rebecca!
+[00:19:17] [Note] Faltan las comillas chidas.
+[00:19:23] [Timing] Dividir líneas.
+[00:19:49] [Note] Faltan las comillas chidas.
+[00:20:22] [Translation] Tengo una pequeña idea.
+[00:21:26] [Timing] Dividir líneas.
+[00:21:28] [Timing] Dividir líneas.
+# total lines: 35

@@ -1,0 +1,111 @@
+[FILE]
+date      : 2021-05-12 00:14:48
+generator : mpvQC 0.7.0
+nickname  : Natsu98
+path      : D:/Encoding/enc/Edens/EDENS ZERO 03 [enc] [8E5D18A1].mkv
+
+[DATA]
+[00:01:01] [Timing] Dividir líneas.
+[00:01:03] [Timing] ídem.
+[00:01:10] [Translation] Aunque duerma con bichos,
+[00:01:12] [Translation] me bañe con ellos,
+[00:01:14] [Translation] o me los guarde en los pantalones,
+[00:01:15] [Translation] ¡¿no podré ser aventurero?!
+[00:01:18] [Translation] Quitar los puntos suspensivos y poner punto final. {Eso creo que es mpás que obvio xd}
+[00:03:19] [Typeset] Traducir el nombre dek grimio, se definió como: "La Estrella Fugaz".
+[00:03:20] [Translation] ¡Volvimos!
+[00:03:22] [Translation] ¡Volvimos!
+[00:03:26] [Punctuation] Quitar los puntos suspensivos.
+[00:03:34] [Spelling] Los signos de admiración son innecesarios.
+[00:03:53] [Translation] ¿Y quién es?
+[00:03:54] [Note] No es es estilo de Rebecca.
+[00:03:55] [Note] ídem.
+[00:03:59] [Translation] Podrías considerarlo un naúfrago. {Así lo ajustamos para que reduzca el CPS}
+[00:04:00] [Punctuation] Quitar los signos de admiración y agregar punto.
+[00:04:11] [Translation] En realidad no sabemos nada de él,
+[00:04:15] [Translation] Además, ni siquiera sabemos bien quién eres, Rebecca.
+[00:04:32] [Translation] Poner "héroe" en minúsculas.
+[00:04:34] [Translation] Ah, ¡el que dijo que conocía a Madre!
+[00:04:39] [Punctuation] Quitar los puntos suspensivos.
+[00:04:42] [Punctuation] Quitar un punto, deben ser 3 y hay 4, además agregar coma luego de los puntos.
+[00:05:03] [Translation] ¿En serio?
+[00:05:09] [Punctuation] Agregar coma luego de los puntos.
+[00:05:18] [Translation] empezar con minússculas ya que el texto es contínuo.
+[00:05:23] [Translation] Faltan las comillas chidas.
+[00:05:27] [Translation] Mi nombre no es Hoppy.
+[00:05:31] [Translation] ¡¿En serio?!
+[00:05:31] [Timing] Ajustar lead-in empieza luego de lo normal y dicidir líneas.
+[00:05:36] [Timing] Dividir líneas-
+[00:06:23] [Punctuation] Agregar coma luego de "B-Cuber"
+[00:07:05] [Punctuation] Quitar el punto sobrante.
+[00:07:08] [Punctuation] Quitar un punto son tres y hay 4 :v
+[00:07:14] [Translation] Quitar signo de exclamasión sobrente.
+[00:07:36] [Translation] ¿Y es amigo de Rebecca?
+[00:07:41] [Translation] ¡es bueno para un buen video!
+[00:07:54] [Translation] ¡El pollo Cureberry de aquí es buenísimo!
+[00:08:13] [Translation] ¿Aún no te acostumbras a ellos, Happy?
+[00:08:17] [Timing] Dividir líneas.
+[00:08:19] [Punctuation] Quitar puntos suspensivos.
+[00:08:23] [Translation] Falta diálogogo: Ah, sí.
+[00:08:30] [Punctuation] Quitar puntos suspensivos.
+[00:08:36] [Spelling] "eran" no lleva tilde.
+[00:08:36] [Spelling] Quitar los signos de admiración, son innecesarios.
+[00:08:41] [Translation] Había un manga y anime así antes, ¿no?
+[00:08:42] [Translation] Falta dialogo de Happy: Aye.
+[00:08:47] [Timing] Dividir líneas.
+[00:08:54] [Translation] Falta diálogo: Ya veo.
+[00:09:09] [Translation] Te he registrado en línea.
+[00:09:13] [Translation] Esta es tu licencia de aventurero.
+[00:09:21] [Timing] Dividir líneas.
+[00:09:29] [Translation] ¡Mi licencia de aventurero!
+[00:09:34] [Timing] Unir las líneas.
+[00:09:43] [Spelling] Quitar las comillas.
+[00:09:53] [Translation] y pásabamos el día jugando.
+[00:09:57] [Translation] "video" no lleva tilde.
+[00:10:03] [Punctuation] Quitar los puntos suspensivos.
+[00:10:09] [Translation] pero los videos de Lavillia son muy interesantes.
+[00:10:13] [Translation] Al igual que el número de suscriptores.
+[00:10:16] [Translation] Estoy segura de que le pone mucho empeño.
+[00:10:25] [Note] "videos" no lleva tilde.
+[00:10:46] [Translation] ¡Y cuando nos conceda nuestros deseos,
+[00:11:01] [Translation] "videos" no lleva tilde.
+[00:11:04] [Translation] ¡Aye, sir!
+[00:11:17] [Punctuation] Quitar puntos suspensivos.
+[00:11:28] [Translation] ¡Aye, sir!
+[00:11:38] [Translation] Qué se puede hacer.
+[00:11:56] [Translation] No me reponde, pero no importa.
+[00:11:58] [Timing] Unir líneas y cambiar por: ¡Ya ha pasado un tiempo, así que vayamoa a verlo!
+[00:12:00] [Translation] Falta diálogo de Shiki: ¡Sí!
+[00:12:00] [Translation] Falta diálogo de Happy: ¡Aye, sir!
+[00:12:14] [Translation] ¿Cómo habrán entrado?
+[00:13:37] [Note] Unir líneas y ajustar el estilo de Shiki.
+[00:13:46] [Note] No es el estilo de Shiki.
+[00:13:46] [Spelling] Quitar los signos de admiración.
+[00:13:47] [Timing] Dividir líneas.
+[00:14:06] [Translation] “Un principiante pilotea su primera nave espacial”
+[00:14:12] [Translation] Quitar el "ya".
+[00:14:26] [Timing] Hay cambio de escena xd.
+[00:14:44] [Translation] “¡Un principiante pilotea su primera nave espacial!”
+[00:14:45] [Note] No es el estilo de Happy.
+[00:14:49] [Spelling] "video" no lleva tilde.
+[00:14:50] [Translation] Falta diálogo de Shiki: Sí.
+[00:15:11] [Translation] ¡Es un principiante aterrador!
+[00:15:17] [Translation] ¡Bueno, este principiante aterrizará a toda velocidad!
+[00:15:18] [Translation] ¡E-Esto no es atterizar!
+[00:15:43] [Timing] Hay cambio de escena.
+[00:16:38] [Translation] ¿Tu Ether Gear también puede hacer las cosas más ligeras?
+[00:16:39] [Translation] Hasta cierto punto.
+[00:16:40] [Translation] A ti también te hice más ligera, ¿recuerdad?
+[00:17:42] [Note] No es el estilo de Happy.
+[00:17:45] [Note] ídem.
+[00:17:49] [Note] ídem.
+[00:18:22] [Translation] Pero el Ether Gear es distinto.
+[00:18:33] [Translation] Ahí va de nuevo, el cerebro fantasioso.
+[00:18:39] [Translation] ¿Y cómo puede sobrevivir la gente en un planeta así?
+[00:18:59] [Translation] ¡Mírenme, yo también estoy aquí!
+[00:19:04] [Translation] No lo hay, vámonos.
+[00:19:30] [Translation] Parece que ni leyó nuestros mensajes.
+[00:19:59] [Translation] No puedes tocar las cosas del doctor así.
+[00:20:02] [Translation] ¡No se muevan!
+[00:21:38] [Translation] ¿Edens Zero? {Poner en minúsculas.}
+# total lines: 103
